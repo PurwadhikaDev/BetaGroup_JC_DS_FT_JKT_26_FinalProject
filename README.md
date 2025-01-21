@@ -101,7 +101,16 @@ This comprehensive dataset provides valuable insights for understanding customer
 ### Part VI: Conclusion and Recommendations
 - Summarizing findings and providing actionable insights for bank marketing campaign optimization.
 
-## Analysis Visualization with Tableau Dashboard
+## Tableau Dashboard
+
+In addition, we have created a Tableau dashboard to provide better visualization, consisting of 4 navigation menus:
+
+- **Dashboard Customer Summary**
+- **Dashboard Subscription**
+- **Dashboard Non-Subscription**
+- **Dashboard Bank Marketing**
+
+The dashboard can be accessed via the following link: [Tableau Dashboard](https://public.tableau.com/app/profile/vina.valentia/viz/BankMarketing_17374720430460/DashboardCustomerSummary).
 
 ## Model Deployment
 

@@ -46,6 +46,10 @@ The project focuses on utilizing data from a bank marketing campaign to understa
 - **Stakeholder**:
   - Chief Marketing Officer (CMO), responsible for driving revenue growth through effective marketing strategies.
 
+## Project Flowchart
+
+[Final Project Flowchart](https://github.com/PurwadhikaDev/BetaGroup_JC_DS_FT_JKT_26_FinalProject/blob/1d9e81729f29628741f2ec98f9ea268d43ff0a09/Final%20Project%20Flowchart.drawio.png)
+
 ## Dataset  
 
 The dataset is related to direct marketing campaigns (phone calls) conducted by a Portuguese banking institution. It was originally created by Sérgio Moro (ISCTE-IUL), Paulo Cortez (Univ. Minho), and Paulo Rita (ISCTE-IUL) in 2014 and is based on the "Bank Marketing" dataset available at the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Bank+Marketing).  

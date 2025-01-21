@@ -105,6 +105,14 @@ This comprehensive dataset provides valuable insights for understanding customer
 ### Part VI: Conclusion and Recommendations
 - Summarizing findings and providing actionable insights for bank marketing campaign optimization.
 
+## Model Deployment
+
+To simulate a realistic deployment scenario, we generate a synthetic dataset of 10,000 records using libraries like Faker, Random, and Numpy. This synthetic data replicates real-world conditions, where data volumes are larger and more variable. Testing the model on this dataset helps evaluate its scalability, performance, and ability to handle production-level data effectively.
+
+The trained machine learning model is saved using Python's `pickle` library, which serializes the model into a file. This allows the model to be reloaded for predictions without requiring retraining, making the deployment process efficient and reusable.
+
+The deployment process is conducted in a separate notebook to clearly separate model development from deployment. This notebook focuses on loading the saved model, applying it to the synthetic dataset, and evaluating its performance in a controlled and production-like environment.
+
 ## Tableau Dashboard
 
 In addition, we have created a Tableau dashboard to provide better visualization, consisting of 4 navigation menus:
@@ -115,8 +123,6 @@ In addition, we have created a Tableau dashboard to provide better visualization
 - **Dashboard Bank Marketing**
 
 The dashboard can be accessed via the following link: [Tableau Dashboard](https://public.tableau.com/app/profile/vina.valentia/viz/BankMarketing_17374720430460/DashboardCustomerSummary).
-
-## Model Deployment
 
 ## Requirements
 
